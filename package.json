@@ -1,7 +1,7 @@
 {
-  "name": "hashlips_art_engine",
+  "name": "Tickets fot he Dao",
   "version": "1.0.5",
-  "description": "HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.",
+  "description": "Tickets for the DAO",
   "main": "index.js",
   "bin": "index.js",
   "pkg": {
@@ -15,7 +15,7 @@
     "build": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Daniel Eugene Botha (HashLips)",
+  "author": "Rafael Fuentes Rangel",
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.8.0",
