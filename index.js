@@ -1,1 +1,2 @@
-console.log("The start.")
+const fs = require("fs");
+const { createCanvas, loadImage } = require("canvas");
