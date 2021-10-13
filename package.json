@@ -1,15 +1,22 @@
 {
-  "name": "art_generator",
+  "name": "tickets-combination",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rafa Fuentes Rangel",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaCypherpunk/Tickets-to-DAO.git"
+  },
+  "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaCypherpunk/Tickets-to-DAO/issues"
+  },
+  "homepage": "https://github.com/RafaCypherpunk/Tickets-to-DAO#readme",
   "dependencies": {
-    "all": "^0.0.0",
     "canvas": "^2.8.0"
   }
 }
